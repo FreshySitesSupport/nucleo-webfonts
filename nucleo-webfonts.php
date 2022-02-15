@@ -62,7 +62,7 @@ function fs_nucleo_demo_links( $links, $file ) {
 }
 
 
-/* Nucleo Webfonts End */
+
 //______________________________________________________________________________
 // All About Updates
 
@@ -88,5 +88,5 @@ $myUpdateChecker->getVcsApi()->enableReleaseAssets();
 //$myUpdateChecker->setBranch('stable-branch-name');
 
 //______________________________________________________________________________
-/* PluginName End */
+/* Nucleo Webfonts End */
 ?>
